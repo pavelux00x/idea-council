@@ -6,6 +6,10 @@ I fed a 23k-character brief about my Christmas campaign (who we are, past result
 
 It works in Claude Code, Codex, pi and any agent that reads `SKILL.md` files.
 
+[![Watch the 60-second demo](docs/demo-poster.png)](https://github.com/pavelux00x/idea-council/raw/main/docs/demo.mp4)
+
+*60-second demo of a full run (click to play). The council:*
+
 ![The council](docs/council.png)
 
 ## What you get
